@@ -2,9 +2,9 @@
 	"version":"Sample 1.0.0",
 	"model":"model.moc",
 	"textures":[
-		"textures/texture_00.png",
-		"textures/texture_01.png",
-		"textures/texture_02.png"
+		"https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/textures/texture_00.png",
+		"https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/textures/texture_01.png",
+		"https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/textures/texture_02.png"
 	],
 	"hit_areas": [
 		{
@@ -29,49 +29,49 @@
 	"motions": {
 		"id4_5": [
 			{
-				"file": "motions/id4_5.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4_5.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
 		],
 		"id4_4": [
 			{
-				"file": "motions/id4_4.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4_4.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
 		],
 		"id4_2": [
 			{
-				"file": "motions/id4_2.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4_2.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
 		],
 		"id4_1": [
 			{
-				"file": "motions/id4_1.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4_1.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
 		],
 		"id4": [
 			{
-				"file": "motions/id4.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
 		],
 		"id4_3": [
 			{
-				"file": "motions/id4_3.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4_3.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
 		],
 		"id4_6": [
 			{
-				"file": "motions/id4_6.mtn",
+				"file": "https://cdn.jsdelivr.net/gh/lithers/ze.lu@latest/models/kurumi/motions/id4_6.mtn",
 				"fade_in": 0,
 				"fade_out": 0
 			}
